@@ -19,8 +19,10 @@ passwords.csv
 
 ## Creator
 **Name:** Shiyan Jiang
+
 **HomeworkID:** Week1 Assignment A1
+
 **~~Constellation:~~**
 
 ## Source
-The csv is from Visit https://www.kaggle.com/datasets/sujaykapadnis/bad-passwords-never-use-them
+The csv is from https://www.kaggle.com/datasets/sujaykapadnis/bad-passwords-never-use-them
