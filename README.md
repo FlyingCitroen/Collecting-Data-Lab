@@ -3,7 +3,7 @@
 # Description
 Nowadays, password security is becoming more and more important. Therefore this dataset collects the 500 most vulnerable passwords to be cracked.
 Be careful! Please avoid using these passwords!💻
-#Metadata
+# Metadata
 passwords.csv
 | variable | class | description|
 |----------|-------|------------|
