@@ -4,6 +4,12 @@
 ## Description
 Dataset crawls the rating status of all animations on Crunchyroll, a video platform, on 6/12/2023.
 
+## Research Question
+With this dataset, we can analyze the most popular cartoons on Crunchyroll and compare them to the most popular cartoons of all time.
+From this, we can analyze the trend of popularity of Japanese anime in Europe and America, and we can also observe the influence of era on the popularity of anime.
+For example, does Attack on Titan, which ended not long ago, have more ratings than a popular anime that ended earlier, such as Naruto.
+As well as whether the generally recognized battle theme of the animation is more popular than the romantic story and so on.
+
 ## Metadata
 Crunchyroll.csv
 | variable | class | description|
