@@ -11,6 +11,9 @@ Influenced by computer arithmetic and the volume of this assignment, only the th
 The original file of the novel was downloaded from the Project Gutenberg web site. I processed it using Pandas and SpaCy to be able to recognize it more quickly through code.
 Project Gutenberg is a project to collect and archive public domain texts and is the source of this book. Find out more at their website. https://www.gutenberg.org/
 
+## License
+Project Gutenberg does not permit the deletion of text from documents bearing the Gutenberg License.
+
 ## Annotations
 To the original CSV I used the spaCy library to add Filename, Text, Doc, Tokens, Lemmas, POS, Proper_Nouns, Named_Entities, NE_Words.
 ### Annotated CSV Description
